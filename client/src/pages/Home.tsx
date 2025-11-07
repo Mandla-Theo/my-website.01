@@ -24,7 +24,7 @@ import {
   Zap,
   Shield
 } from "lucide-react";
-import { APP_TITLE } from "@/const";
+import { APP_TITLE, APP_LOGO } from "@/const";
 import { useState } from "react";
 import { toast } from "sonner";
 
@@ -195,7 +195,7 @@ export default function Home() {
         <div className="container">
           <div className="flex h-16 items-center justify-between">
             <div className="flex items-center gap-2">
-              <Sparkles className="w-8 h-8 text-primary" />
+              <img src={APP_LOGO} alt="P&M WebWorks" className="w-10 h-10" />
               <span className="font-bold text-xl">{APP_TITLE}</span>
             </div>
             <div className="hidden md:flex items-center gap-6">
@@ -565,7 +565,7 @@ export default function Home() {
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div className="space-y-4">
               <div className="flex items-center gap-2">
-                <Sparkles className="w-6 h-6 text-primary" />
+                <img src={APP_LOGO} alt="P&M WebWorks" className="w-8 h-8" />
                 <span className="font-bold text-lg">{APP_TITLE}</span>
               </div>
               <p className="text-sm text-muted-foreground">
