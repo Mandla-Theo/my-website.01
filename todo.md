@@ -14,3 +14,7 @@
 - [x] Modern color palette (blue, white, accent colors)
 - [x] Hover animations and smooth scrolling
 - [x] SEO-friendly structure
+
+## Updates
+
+- [x] Convert pricing from USD to ZAR (Rands)

@@ -117,7 +117,7 @@ export default function Home() {
   const pricingPlans = [
     {
       name: "Starter",
-      price: "$999",
+      price: "R18,481",
       description: "Perfect for small businesses and startups",
       features: [
         "5-page responsive website",
@@ -131,7 +131,7 @@ export default function Home() {
     },
     {
       name: "Professional",
-      price: "$2,499",
+      price: "R46,231",
       description: "Ideal for growing businesses",
       features: [
         "10-page responsive website",
@@ -147,7 +147,7 @@ export default function Home() {
     },
     {
       name: "Enterprise",
-      price: "$4,999+",
+      price: "R92,481+",
       description: "For large-scale projects",
       features: [
         "Unlimited pages",
