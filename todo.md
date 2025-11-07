@@ -21,3 +21,4 @@
 - [x] Add company name "P&M WebWorks"
 - [x] Create and add company logo
 - [x] Update contact phone numbers and emails
+- [x] Link social media icons to P&M WebWorks social pages

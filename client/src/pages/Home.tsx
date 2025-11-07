@@ -545,16 +545,16 @@ export default function Home() {
                 <CardHeader>
                   <CardTitle className="text-lg mb-4">Follow Us</CardTitle>
                   <div className="flex gap-4">
-                    <a href="#" className="p-3 rounded-full bg-primary/10 hover:bg-primary hover:text-primary-foreground transition-colors">
+                    <a href="https://www.facebook.com/profile.php?id=61583493448932" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-primary/10 hover:bg-primary hover:text-primary-foreground transition-colors">
                       <Facebook className="w-5 h-5" />
                     </a>
-                    <a href="#" className="p-3 rounded-full bg-primary/10 hover:bg-primary hover:text-primary-foreground transition-colors">
+                    <a href="https://x.com/PMwebworks" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-primary/10 hover:bg-primary hover:text-primary-foreground transition-colors">
                       <Twitter className="w-5 h-5" />
                     </a>
                     <a href="#" className="p-3 rounded-full bg-primary/10 hover:bg-primary hover:text-primary-foreground transition-colors">
                       <Linkedin className="w-5 h-5" />
                     </a>
-                    <a href="#" className="p-3 rounded-full bg-primary/10 hover:bg-primary hover:text-primary-foreground transition-colors">
+                    <a href="https://www.instagram.com/pm.webworks/" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-primary/10 hover:bg-primary hover:text-primary-foreground transition-colors">
                       <Instagram className="w-5 h-5" />
                     </a>
                   </div>
@@ -610,16 +610,16 @@ export default function Home() {
               © 2024 {APP_TITLE}. All rights reserved.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://www.facebook.com/profile.php?id=61583493448932" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
                 <Facebook className="w-5 h-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://x.com/PMwebworks" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
                 <Twitter className="w-5 h-5" />
               </a>
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://www.instagram.com/pm.webworks/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
                 <Instagram className="w-5 h-5" />
               </a>
             </div>
