@@ -508,7 +508,10 @@ export default function Home() {
                     <Phone className="w-6 h-6 text-primary" />
                     <div>
                       <CardTitle className="text-lg">Phone</CardTitle>
-                      <CardDescription>+1 (555) 123-4567</CardDescription>
+                      <div className="space-y-1">
+                        <CardDescription>+27 66 462 3284</CardDescription>
+                        <CardDescription>+27 67 077 4967</CardDescription>
+                      </div>
                     </div>
                   </div>
                 </CardHeader>
@@ -519,7 +522,10 @@ export default function Home() {
                     <Mail className="w-6 h-6 text-primary" />
                     <div>
                       <CardTitle className="text-lg">Email</CardTitle>
-                      <CardDescription>hello@webuilderpro.com</CardDescription>
+                      <div className="space-y-1">
+                        <CardDescription>mandlatheo15@gmail.com</CardDescription>
+                        <CardDescription>pulemosehla140@gmail.com</CardDescription>
+                      </div>
                     </div>
                   </div>
                 </CardHeader>

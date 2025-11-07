@@ -20,3 +20,4 @@
 - [x] Convert pricing from USD to ZAR (Rands)
 - [x] Add company name "P&M WebWorks"
 - [x] Create and add company logo
+- [x] Update contact phone numbers and emails
